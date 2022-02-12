@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <commodity>
+        <AP>
+            <instrument_root>AP</instrument_root>
+            <price_tick>1.0</price_tick>
+            <volume_multiplier>10</volume_multiplier>
+            <exchange>ZCE</exchange>
+            <trading_session_type>NNG</trading_session_type>
+        </AP>
+        <OI>
+            <instrument_root>OI</instrument_root>
+            <price_tick>1.0</price_tick>
+            <volume_multiplier>10</volume_multiplier>
+            <exchange>ZCE</exchange>
+            <trading_session_type>SNG</trading_session_type>
+        </OI>
+    </commodity>
